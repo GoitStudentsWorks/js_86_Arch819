@@ -2,10 +2,10 @@
   "name": "Tasty-treats",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Arch819.github.io/Tasty-treats",
+  "homepage": "https://GoitStudentsWorks.github.io/js_86_Arch819",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Tasty-treats/"
+    "build": "parcel build src/*.html --public-url /js_86_Arch819/"
   },
   "repository": {
     "type": "git",
